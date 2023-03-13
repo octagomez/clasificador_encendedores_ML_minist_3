@@ -17,5 +17,6 @@ Se necesita crear un modelo de clasificacion por imagenes que clasifique en 3(Tr
 Al ingresar al sitio, este solicita permiso sobre la camara web del navegador.
 Al mostrar un encendedor a la camara el modelo predice que tipo de encendedor es si es un CLIPER, DESCARTABLE o BIC.
 
-# Entrenamiento, se tomaron 100 fotos de cada encendedor y se utilizo para entrenar un modelo CNN para su clasificacion.
+# Entrenamiento. 
+Se tomaron 100 fotos de cada encendedor y se utilizo para entrenar un modelo CNN para su clasificacion.
 
